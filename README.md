@@ -1,6 +1,8 @@
 # Getting Started with Create React App
+**Conceptos practicados:** `useState`, Material UI
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Here is the link for you to try out the application. [CLICK HERE](https://react-saludoapp.netlify.app).
+
 
 ## Available Scripts
 
